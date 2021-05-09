@@ -1,0 +1,15 @@
+{
+    "pincodes": ["411001","411001","411002","411006","411007","411014","411014","411015","411017","411020","411025","411026","411027","411032","411033","411035","411036","411044","411061","412207","413102"],
+    "partial_pin_code" : "4110",
+    "above18": true,
+    "above45": true,
+    "emails": [
+        "xxxxxxx@gmail.com",
+        "yyyyyyy@gmail.com"
+    ],
+    "notify_mobile_no":"+91xxxxxxxxxx",
+    "sms_account_id": "XXXXXXXXXXXXXX",
+    "sms_auth_token": "XxxxxxXXXxxxxx",
+    "gmail_app_password": "XXXXXXXXXXXX",
+    "vaccine" : ["COVISHIELD"]
+}
